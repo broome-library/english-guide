@@ -4,6 +4,6 @@
     },
     "title":"English Research Guide",
     "variables": {
-        "librarian":"git+https://git.gitbook.com/broome-library/shared.git/contacts/lworden.md"        
+        "librarian":"git+https://git.gitbook.com/broome-library/shared.git/contacts/nclements.md"        
     }
 }
