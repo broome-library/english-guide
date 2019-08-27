@@ -34,7 +34,7 @@
 
 > Black Short Fiction and Folklore from Africa and the African Diasporais the most comprehensive collection yet created of stories from Africa and the African Diaspora, offering short stories and folklore.
 
-### [Early English Books Online](http://summit.csuci.edu:2048/login?url=http://eebo.chadwyck.com/home)
+### [Early English Books Online](http://summit.csuci.edu/login?url=https://search.proquest.com/eebo)
 
 > Early English Books Onlinecontains digital page images of almost every work printed in England, Ireland, Scotland, Wales and British North America between 1400-1700.
 
