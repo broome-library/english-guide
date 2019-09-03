@@ -38,10 +38,6 @@
 
 > Early English Books Onlinecontains digital page images of almost every work printed in England, Ireland, Scotland, Wales and British North America between 1400-1700.
 
-### [In the First Person: Index to Letters, Diaries, Oral Histories and other Personal Narratives](http://summit.csuci.edu:2048/login?url=http://www.inthefirstperson.com)
-
-> ITFP is an index of letters, diaries, oral histories and personal narratives in English, from around the world.
-
 ### [Irish Women Poets of the Romantic Period](http://summit.csuci.edu:2048/login?url=http://lit.alexanderstreet.com/iwrp/)
 
 > IWPOTRP contains contains poetry composed during the Romantic period byIrish women, critical reviews and scholarly essays.
